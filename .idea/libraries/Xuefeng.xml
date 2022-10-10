@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Xuefeng">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Xuefeng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
